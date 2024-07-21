@@ -1,10 +1,10 @@
 node_modules
 .idea
 .vscode
+.DS_Store
 dist
 public
 build
 out
 /Users/gawaintan/workSpace/Tools/trackers-userscripts/Find\ Unique\ Titles/src/trackers/index.ts
 /Users/gawaintan/workSpace/Tools/trackers-userscripts/Find\ Unique\ Titles/src/trackers/HDR.ts
-/Users/gawaintan/workSpace/Tools/trackers-userscripts/Find\ Unique\ Titles/.DS_Store
